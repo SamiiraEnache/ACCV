@@ -1,0 +1,1 @@
+dataset,model_name,image_size,lr_backbone,lr_head,weight_decay,scheduler,aug_level,loss_type,epochs,val_macro_f1,notes

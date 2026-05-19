@@ -1,0 +1,14 @@
+checkpoints/
+*.pth
+*.pt
+data/
+*.npz
+*.npy
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.vscode/settings.json
