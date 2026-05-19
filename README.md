@@ -16,6 +16,10 @@ Use the local `data/`, `checkpoints/`, and `submissions/` paths when running out
 
 Kaggle runs should use `/kaggle/input/tensor-reloaded-multi-task-med-mnist/data/` for input data and `/kaggle/working/` for generated checkpoints and submissions.
 
+## Kaggle Synchronization Protocol
+
+See `docs/kaggle_sync_protocol.md`.
+
 ## Git Rules
 
 Do not commit datasets, checkpoints, model weights, NumPy artifacts, environment files, or notebook checkpoints.
